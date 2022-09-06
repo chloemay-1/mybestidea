@@ -1,7 +1,7 @@
 
 
 # Scamps Groomers
-I am planning on desinging a dog grooming website. I hope that this website that is designed well and has an easy flow for users.      
+I am planning on desinging a dog grooming website. I hope that this website is designed well and has an easy flow for users.      
 I plan on having an price list with easy to find information. -Links to same. 
 I plan to add images of previous work done by the company.
 I plan on attaching a form for users to add their details and dogs details, and our team will get back to them to arrange an appointment. Alternatevly call the number, email us, or drop by the store and we will be happy to help.  I plan on having a reviews box so people can leave reviews if they wish.
