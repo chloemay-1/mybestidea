@@ -1,0 +1,36 @@
+h1 {
+    font-size: 500%;
+    text-align: left;
+    
+    
+}
+.home { 
+    background-image: url() / center center no-repeat fixed;
+}
+nav { 
+    text-align: center;
+    background-color:#E0770C;
+    padding: 1rem;
+}
+nav > a { 
+    color: yellow;
+    font-size: 150%;
+    padding: 2rem;
+    
+}
+ nav >a:hover {
+    color: #000000;
+ }
+
+header > p { 
+    font-size: 250%;
+    text-align: left;
+}
+
+body { 
+    color: #E0770C;
+    background-color: #E2F0E4;
+}
+.scamps {
+    color: #F52323
+}
