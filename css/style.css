@@ -4,9 +4,6 @@ h1 {
     
     
 }
-.home { 
-    background-image: url() / center center no-repeat fixed;
-}
 nav { 
     text-align: center;
     background-color:#E0770C;
@@ -33,4 +30,21 @@ body {
 }
 .scamps {
     color: #F52323
+}
+header {
+    
+        background-image: url ('https://images.pexels.com/photos/12951462/pexels-photo-12951462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+}
+.about-us-box {
+    padding: 10px 5px 25px 5px;
+	border-radius: 8px;
+	width: 100%;
+	margin: 2%;;
+    position: relative;
+    left: 20%;
+    top: 30px;
+}
+.one-third-width-column {
+    width: 33.33%;
+    display: inline-block;
 }
