@@ -1,6 +1,6 @@
 h1 {
     font-size: 500%;
-    text-align: left;
+    text-align: center;
     
     
 }
@@ -16,8 +16,14 @@ nav > a {
     
 }
  nav >a:hover {
-    color: #000000;
+    color: #00F000;
  }
+ #header { 
+    background-color: aquamarine;
+.header { 
+    display: inline-block;
+     img
+}
 
 header > p { 
     font-size: 250%;
@@ -31,20 +37,22 @@ body {
 .scamps {
     color: #F52323
 }
-header {
-    
-        background-image: url ('https://images.pexels.com/photos/12951462/pexels-photo-12951462.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
-}
+
 .about-us-box {
     padding: 10px 5px 25px 5px;
 	border-radius: 8px;
 	width: 100%;
 	margin: 2%;;
     position: relative;
-    left: 20%;
     top: 30px;
+}
+.about-us {
+    width: 50% ;
 }
 .one-third-width-column {
     width: 33.33%;
     display: inline-block;
+}
+.bold {
+    font-weight: bold;
 }
