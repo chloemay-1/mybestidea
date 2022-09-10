@@ -20,14 +20,14 @@ nav > a {
  }
  #header { 
     background-color: aquamarine;
-.header { 
-    display: inline-block;
-     img
-}
+    display: inline-block
+ }
+     
 
-header > p { 
+
+#dog-grooming { 
     font-size: 250%;
-    text-align: left;
+    text-align: center;
 }
 
 body { 
