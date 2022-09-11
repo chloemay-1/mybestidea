@@ -16,7 +16,7 @@ nav > a {
     
 }
  nav >a:hover {
-    color: #00F000;
+    color: #f06000;
  }
  #header { 
     background-color: rgb(255, 200, 127);
@@ -35,7 +35,7 @@ body {
     background-color: #E2F0E4;
 }
 .scamps {
-    color: #F52323
+    color: #f57e23
 }
 
 .about-us-box {
@@ -60,7 +60,19 @@ body {
     display:flex;
     max-width: 25%;
     padding: 0 0 0 150rem;
-    
-
-    
+}
+ 
+footer {
+    width: 100%;
+    padding: 1em;
+    background-color: #f57e23;
+    text-align: center;
+    bottom: 0%;
+    top: 0%;
+    margin: 0%;
+    position: relative;
+}
+footer > h3 {
+    text-transform: uppercase;
+    color:  #deb887;
 }
