@@ -19,8 +19,8 @@ nav > a {
     color: #00F000;
  }
  #header { 
-    background-color: aquamarine;
-    display: inline-block
+    background-color: rgb(255, 200, 127);
+    
  }
      
 
@@ -54,5 +54,13 @@ body {
     display: inline-block;
 }
 .bold {
-    font-weight: bold;
+    font-style: bold;
+}
+.paw-print-one {
+    display:flex;
+    max-width: 25%;
+    padding: 0 0 0 150rem;
+    
+
+    
 }
