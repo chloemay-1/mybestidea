@@ -49,22 +49,26 @@ body {
 .about-us {
     width: 50% ;
 }
-.one-third-width-column {
-    width: 33.33%;
-    display: inline-block;
 }
 .bold {
     font-style: bold;
 }
 .paw-print-one {
     display:flex;
+    justify-content: flex-start;
     max-width: 25%;
-    padding: 0 0 0 150rem;
+    
+}
+.paw-print-two {
+    display: flex;
+    justify-content: flex-end;
+    max-width: 25%;
+
 }
  
 footer {
     width: 100%;
-    padding: 1em;
+    padding: 0%;
     background-color: #f57e23;
     text-align: center;
     bottom: 0%;
