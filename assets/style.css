@@ -20,6 +20,9 @@ nav > a {
  }
  #header { 
     background-color: rgb(255, 200, 127);
+    display: flex;
+    justify-content:  space-around;
+    
     
  }
      
@@ -52,15 +55,11 @@ body {
     font-style: bold;
 }
 .paw-print-one {
-    display:flex;
-    justify-content: flex-start;
-    max-width: 25%;
+   max-width: 10%;
     
 }
 .paw-print-two {
-    display: flex;
-    justify-content: flex-end;
-    max-width: 25%;
+    max-width: 10%;
 
 }
  
