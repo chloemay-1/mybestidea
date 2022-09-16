@@ -23,8 +23,6 @@ nav > a {
     
  }
      
-
-
 #dog-grooming { 
     font-size: 250%;
     text-align: center;
@@ -49,7 +47,7 @@ body {
 .about-us {
     width: 50% ;
 }
-}
+
 .bold {
     font-style: bold;
 }
