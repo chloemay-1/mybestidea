@@ -10,13 +10,13 @@ nav {
     padding: 1rem;
 }
 nav > a { 
-    color: yellow;
+    color: #ffff4a;
     font-size: 150%;
     padding: 2rem;
     
 }
  nav >a:hover {
-    color: #181717;
+    color: #956f08;
  }
  #header { 
     background-color: rgb(255, 200, 127);
@@ -37,7 +37,13 @@ body {
 .scamps {
     color: #f57e23
 }
+span > a {
+     color:#ffff4a;
+}
+span > a:hover {
+    color:#956f08
 
+}
 
 .about-us {
     width: 50% ;
@@ -50,16 +56,18 @@ body {
     text-align: center;
 }
 #paw-print-one {
-   max-width: 10%;
+   max-width: 30%;
    display: flex;
    align-self:center;
+   padding: 10px 50px 10px 10px;
 
     
 }
 #paw-print-two {
-    max-width: 10%;
-    display: flex;
+    max-width: 30%;
+    display:flex;
     align-self: center;
+    padding: 10px 10px 50px 10px;
 
 }
  

@@ -1,0 +1,5 @@
+<div class="paw-print-two">
+                <img src="assets/images-/pawprint.png" alt="paw print" id="paw-print-two">
+                <div class="paw-print-one">
+                    <img src="assets/images-/pawprint.png" alt="paw print" id="paw-print-one">
+            </div>
