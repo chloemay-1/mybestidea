@@ -84,7 +84,23 @@ footer > h3 {
     color:  #deb887;
     padding: 15px;
 }
-#about-us-box {
+.about-us-box {
     border: solid #956f08;
-    max-width: 300px;
+    width: 100%
+    display: flex;
+    align-self: baseline;
+}
+#susan { 
+    width: 100%;
+    display: flex;
+    justify-content: flex-right;
+    max-width: 50%;
+
+}
+.row {
+    display: flex;
+}
+.column {
+    flex: 33.33%;
+    padding: 5px;
 }
