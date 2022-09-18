@@ -35,19 +35,17 @@ body {
     background-color: #E2F0E4;
 }
 .scamps {
-    color: #f57e23
+    color: #f57e23;
 }
 span > a {
-     color:#ffff4a;
+     color: #f57e23;
 }
 span > a:hover {
     color:#956f08
 
 }
 
-.about-us {
-    width: 50% ;
-}
+
 
 .bold {
     font-style: bold;
@@ -60,6 +58,7 @@ span > a:hover {
    display: flex;
    align-self:center;
    padding: 10px 50px 10px 10px;
+   margin-left: 0%;
 
     
 }
@@ -68,6 +67,7 @@ span > a:hover {
     display:flex;
     align-self: center;
     padding: 10px 10px 50px 10px;
+    margin-left: 0%;
 
 }
  
@@ -83,4 +83,8 @@ footer > h3 {
     text-transform: uppercase;
     color:  #deb887;
     padding: 15px;
+}
+#about-us-box {
+    border: solid #956f08;
+    max-width: 300px;
 }
