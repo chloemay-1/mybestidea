@@ -162,3 +162,25 @@ footer > h2 {
     color: #f57e23;
     padding: 15px;
 }
+ 
+/* form submittion page */
+
+.formsubmit {
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    text-align: center;
+
+
+}
+#header2 { 
+    background-color: #efbb0fc1;
+    display: flex;
+    justify-content:  space-around;
+    align-content: center;
+    height: 20vh;
+    width: 100vw;
+    text-align: center;
+
+    }
+    
