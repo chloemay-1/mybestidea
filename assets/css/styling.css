@@ -125,6 +125,27 @@ ul {
 
 }
 
+/* iframe */
+.mapouter {
+    position: relative;
+    text-align: right;
+    height: 249px;
+    width: 789px;
+}
+.gmap_canvas {
+    overflow: hidden;
+    background: none !important;
+    height: 249px;
+    width: 789px;
+}
+
+iframe {
+    border: 0;
+    scrolling: no;
+    margin-top: 0;
+    width: 1080px ; 
+    height: 249px ; 
+}    
 /* Footer */ 
 
 
