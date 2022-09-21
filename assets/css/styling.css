@@ -1,0 +1,143 @@
+/* header */
+#header { 
+    background-color: #efbb0fc1;
+    display: flex;
+    justify-content:  space-around;
+    align-content: center;
+    height: 35vh;
+    width: 100vw;
+    text-align: center;
+
+    }
+ #dog-grooming { 
+        font-size: 250%;
+        text-align: center;
+
+    }
+
+ .scamps {
+        color: #f57e23;
+
+    }
+ #paw-print-one {
+        max-width: 30vw;
+        height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-self:center;
+        padding: 10px 10px 10px 10px;
+        margin: 0%;
+     
+     }
+ #paw-print-two {
+         max-width: 30vw;
+         height: 30vh;
+         display:flex;
+         justify-content: center;
+         align-self: center;
+         padding: 10px 10px 10px 10px;
+         margin: 0%;
+     
+     }
+ #dog-grooming { 
+        font-size: 250%;
+        text-align: center;
+
+    }
+h1 {
+        font-size: 500%;
+        text-align: center;
+        
+     }
+ span > a {
+        color: #f57e23;
+   }
+ span > a:hover {
+       color:#956f08
+   
+   }
+
+/* Nav */
+
+
+nav { 
+    text-align: center;
+    background-color:#E0770C;
+    padding: 1rem;
+    width: 100vw;
+}
+nav > a { 
+    color: #ffff4a;
+    font-size: 150%;
+    padding: 2rem;
+    
+}
+ nav >a:hover {
+    color: #956f08;
+ }
+
+ /*  Main Body */
+
+body { 
+    color: #E0770C;
+    background-color: #E2F0E4;
+    width: 100vw;
+}
+
+ .text-center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.about-us-box {
+    border: solid #956f08;
+    border-radius: 10%;
+    width: 100%
+    
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.price-list {
+    text-align: center;
+    border: solid #956f08;
+    border-radius: 10%;
+    max-width: 33%
+}
+
+ul {
+    list-style-type: none;
+}
+
+.form {
+    border: #956f08 solid;
+    border-radius: 25%;
+    text-align: center;
+
+}
+
+/* Footer */ 
+
+
+footer {
+    width: 100%;
+    height: 15%;
+    padding: 1em;
+    background-color: #efbb0fc1;
+    text-align: center;
+}
+
+footer > h2 {
+    text-transform: uppercase;
+    color: #f57e23;
+    padding: 15px;
+}

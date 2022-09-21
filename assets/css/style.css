@@ -8,6 +8,7 @@ nav {
     text-align: center;
     background-color:#E0770C;
     padding: 1rem;
+    width: 100vw;
 }
 nav > a { 
     color: #ffff4a;
@@ -23,7 +24,9 @@ nav > a {
     display: flex;
     justify-content:  space-around;
     align-content: center;
-    height: 30vh;
+    height: 35vh;
+    width: 100vw;
+    text-align: center;
 
     }
      
@@ -35,6 +38,7 @@ nav > a {
 body { 
     color: #E0770C;
     background-color: #E2F0E4;
+    width: 100vw;
 }
 .scamps {
     color: #f57e23;
@@ -59,6 +63,7 @@ span > a:hover {
 #paw-print-one {
    max-width: 30%;
    display: flex;
+   justify-content: center;
    align-self:center;
    padding: 10px 10px 10px 10px;
    margin: 0%;
@@ -68,6 +73,7 @@ span > a:hover {
 #paw-print-two {
     max-width: 30%;
     display:flex;
+    justify-content: center;
     align-self: center;
     padding: 10px 10px 10px 10px;
     margin: 0%;
@@ -91,9 +97,7 @@ footer > h2 {
     border: solid #956f08;
     border-radius: 10%;
     width: 100%
-    height
-    align-items: baseline;
-    justify-content: flex-right;
+    
 }
 .row {
     display: flex;
@@ -119,5 +123,5 @@ ul {
 
 }
 .susan {
-    margin: 10px;
+    padding-left: 10px;
 }
