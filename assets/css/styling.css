@@ -113,6 +113,17 @@ body {
     border-radius: 10%;
     max-width:  100vw;
 }
+.contact-us {
+    text-align: center;
+    border: solid #956f08;
+    border-radius: 10%;
+    max-width: 100vw;
+}
+.contact-us div {
+    flex-direction: column;
+    flex: 33.33%;
+    padding: 5px;
+}
 
 ul {
     list-style-type: none;
