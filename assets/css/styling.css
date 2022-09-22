@@ -94,6 +94,8 @@ body {
     border: none;
     border-radius: 10%;
     width: 75vw;
+    margin-left: 5%;
+    margin-right: 20%;
     
 
     
@@ -118,6 +120,8 @@ body {
     border: none;
     border-radius: 10%;
     max-width:  75vw;
+    margin-left: 20%;
+    margin-right: 5%;
     
     
 }
@@ -129,6 +133,8 @@ body {
     max-width: 75vw;
     display: flex;
     justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 20%;
     
     
 }
@@ -236,5 +242,15 @@ footer > h2 {
             width: 75%;
         }
     }
+
+    @media  and (max-width: 870px) {
+        .price-list {
+            display: flex;
+        
+        }
+        #doginbed {            
+            width: 50%;
+        }
         
     }
+    
