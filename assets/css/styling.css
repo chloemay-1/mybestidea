@@ -98,8 +98,9 @@ body {
 
     
 }
-#about-us-p {
+.about-us-p {
     width: 65%;
+    margin: 10%;
 }
 .row {
     display: flex;
@@ -117,6 +118,7 @@ body {
     border: none;
     border-radius: 10%;
     max-width:  75vw;
+    
     
 }
 .contact-us {
@@ -222,14 +224,17 @@ footer > h2 {
 
 
 }
-#header2 { 
-    background-color: #efbb0fc1;
-    display: flex;
-    justify-content:  space-around;
-    align-content: center;
-    height: 20vh;
-    width: 100vw;
-    text-align: center;
 
-    }
     
+
+    @media screen and (max-width: 1038px) {
+        .contact-us {
+            font-size: 90%;
+            
+        }
+        iframe {
+            width: 75%;
+        }
+    }
+        
+    }
