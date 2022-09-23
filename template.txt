@@ -33,6 +33,16 @@
 
 
 
+        
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Noto+Sans+JP&display=swap');
+
+
+
+font-family: 'Kaushan Script', cursive;
+font-family: 'Noto Sans JP', sans-serif;
+
+
+
         #efbb0fc1
         #f57e23
         #E0770C

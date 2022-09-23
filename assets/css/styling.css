@@ -1,11 +1,23 @@
 /* header */
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Noto+Sans+JP&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    border: none ;
+    
+}
+body { 
+    height: 100vh;
+    box-sizing: border-box;
+}
 #header { 
-    background-color: #dd9273;
+    background-color: #E2F0E4;
     display: flex;
     justify-content:  space-around;
     height: 35vh;
     width: 100vw;
     text-align: center;
+    font-family: 'Kaushan Script', cursive;
 
     }
  #dog-grooming { 
@@ -95,9 +107,7 @@ body {
     width: 75vw;
     margin-left: 5%;
     margin-right: 20%;
-    margin-top: 10px;
-
-    
+    margin-top: 10px;   
 }
 .about-us-p {
     width: 65%;
@@ -192,16 +202,13 @@ input:focus {
     text-align:right;
     height:300px;
     width:350px;
-    ;}
-
+}
 .gmap_canvas {
         overflow:hidden;
         background:none!;
         height:300px;
         width:350px;
-        
-    }
-
+}
 iframe {
             width: 350;
             height: 300;
@@ -209,8 +216,7 @@ iframe {
              margin: 0;
              border-radius: 10%;
              display: flex;
-             
-        }
+}
 
 
 
@@ -270,7 +276,6 @@ span > a:hover {
         .contact-us {
             display: flex;
             flex-direction: column;
-            
         }
         .price-list {
             display: flex;
@@ -290,15 +295,17 @@ span > a:hover {
 
     }
         
-    }
+    
 
     @media  and (max-width: 870px) {
+
+    
         header {
-            font-size: -75%;
+            font-size: 75%;
         }
+            
         .price-list {
             display: flex;
-        
         }
         #doginbed {            
             width: 50%;
@@ -308,10 +315,10 @@ span > a:hover {
             height: 50%;
         }
 
-        body > img {
+        .image870px {
             width: 50%;
 
         }
         
-    }
+
     
