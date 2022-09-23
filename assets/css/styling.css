@@ -74,7 +74,7 @@ nav > a {
 body { 
     color: #E0770C;
     background-color: #E2F0E4;
-    width: 100vw;
+    width: 100%;
 }
 
  .text-center {
@@ -144,8 +144,7 @@ ul {
 }
 
 .form {
-    border: #956f08 solid;
-    border-radius: 25%;
+
     text-align: center;
 
 }
@@ -159,14 +158,19 @@ span > a:hover {
    color:#956f08
 
 }
-img {
-    border-radius: 15%;
-}
 .margin10 {
     margin: 10px;
 }
 #susan {
-    height: 55vh;
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 10px;
+
+}
+#doginbath {
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 10px;
 }
 
 
@@ -253,6 +257,33 @@ footer > h2 {
         }
     }
 
+    @media screen and (max-width: 970px) {
+
+        .contact-us {
+            display: flex;
+            flex-direction: column;
+            
+        }
+        .price-list {
+            display: flex;
+            flex-direction: column;
+        }
+        .about-us {
+            display: flex;
+            flex-direction: column;
+        }
+        #susan {
+            width: 50%;
+        }
+
+        iframe {
+            width: 100vw;
+        }
+
+    }
+        
+    }
+
     @media  and (max-width: 870px) {
         .price-list {
             display: flex;
@@ -262,8 +293,8 @@ footer > h2 {
             width: 50%;
         }
         header > img {
-            width: 75%;
-            height: 75%;
+            width: 50%;
+            height: 50%;
         }
 
         body > img {

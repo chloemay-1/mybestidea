@@ -28,5 +28,5 @@ I plan on attaching a form for users to add their details and dogs details, and 
 
 # Design Choices 
  
- ##Colors
+ ## Colors
  
