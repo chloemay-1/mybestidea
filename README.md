@@ -46,13 +46,14 @@ I plan on attaching a form for users to add their details and dogs details, and 
 
 
  I added these colors to the divs, and then my font color was hard to read (#e0770c). For convinence until I decided to change the font color in the body to white #ffffff. This was a temporary move while I contemplated my color palette. 
- I decided to use colormind to help with a decision. I uploaded the picture of the paw print, and generated a few different pallets until I found one I was confident in. 
- Thsi left me with five new colors to work with. 
- * #613931
- * #804e44 
- * #c37b6e
- * #53322a
- * #201411
-
+ I decided to use colormind to help with a decision. I uploaded the picture of the paw print, and generated a few different pallets, although these pallets were very dark. 
+ . I decided to try search for a pallet that holds a similar color too #d0867c
+ This left me with a palette of 
+ * f6f9f7
+ * b1bdba
+ * f78061
+ * dd9273
+ * 3d4b47
  
+
  I tested out multiple different combinations of the palette I chose, and finally decided which color for which aspect. 
