@@ -3,7 +3,6 @@
     background-color: #efbb0fc1;
     display: flex;
     justify-content:  space-around;
-    
     height: 35vh;
     width: 100vw;
     text-align: center;
@@ -96,7 +95,7 @@ body {
     width: 75vw;
     margin-left: 5%;
     margin-right: 20%;
-    
+    margin-top: 10px;
 
     
 }
@@ -122,6 +121,7 @@ body {
     max-width:  75vw;
     margin-left: 20%;
     margin-right: 5%;
+    margin-top: 10px;
     
     
 }
@@ -135,7 +135,7 @@ body {
     justify-content: space-around;
     margin-left: 5%;
     margin-right: 20%;
-    
+    margin-top: 10px;
     
 }
 
@@ -250,6 +250,15 @@ footer > h2 {
         }
         #doginbed {            
             width: 50%;
+        }
+        header > img {
+            width: 75%;
+            height: 75%;
+        }
+
+        body > img {
+            width 50%
+
         }
         
     }
