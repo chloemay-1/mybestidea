@@ -177,6 +177,12 @@ span > a:hover {
 #find-us {
     text-align: center;
 }
+
+input:focus { 
+        background-color: #E0770C;
+
+}
+
 .socials {
     margin-left: 25px;
     margin-right: 25px;
