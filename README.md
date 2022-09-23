@@ -29,4 +29,13 @@ I plan on attaching a form for users to add their details and dogs details, and 
 # Design Choices 
  
  ## Colors
+
+ I initially was quite stuck on picking a color palette, I picked some basic red and orange colors and used the color wheel to get more detailed shades I felt matched.
+ I first had color palette of
+ * #efbb0fc1
+ * #f57e23
+ * #e0770c
+ * #ffff4a
+ * #9565q8
+ * e3f0e4
  
