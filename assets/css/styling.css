@@ -160,10 +160,10 @@ span > a:hover {
 
 }
 img {
-    border-radius: 10%;
+    border-radius: 15%;
 }
 .margin10 {
-    margin-top: 10px;
+    margin: 10px;
 }
 #susan {
     height: 55vh;
@@ -267,7 +267,7 @@ footer > h2 {
         }
 
         body > img {
-            width 50%
+            width: 50%;
 
         }
         
