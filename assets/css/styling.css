@@ -1,5 +1,5 @@
 /* header */
-@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Lemonada:wght@300&display=swap');
 * {
     margin: 0;
     padding: 0;
@@ -9,6 +9,14 @@
 body { 
     height: 100vh;
     box-sizing: border-box;
+    background-color: #E2F0E4;
+}
+h1 , h2 , h3 , nav {
+    font-family: 'Kaushan Script', cursive;
+}
+p, li, span { 
+    font-family: 'Lemonada', cursive;
+    font-size: 75%;
 }
 #header { 
     background-color: #E2F0E4;
@@ -17,7 +25,7 @@ body {
     height: 35vh;
     width: 100vw;
     text-align: center;
-    font-family: 'Kaushan Script', cursive;
+    
 
     }
  #dog-grooming { 
@@ -72,6 +80,7 @@ nav {
     width: 100vw;
 }
 nav > a { 
+    text-decoration: none;
     color: #b1bdba;
     font-size: 150%;
     padding: 2rem;
@@ -85,7 +94,7 @@ nav > a {
 
 body { 
     color: #3d4b4f;
-    background-color: #E2F0E4;
+    
     width: 100%;
 }
 
@@ -107,11 +116,11 @@ body {
     width: 75vw;
     margin-left: 5%;
     margin-right: 20%;
-    margin-top: 10px;   
+    margin-top: 5%;  
 }
 .about-us-p {
     width: 65%;
-    margin: 10%;
+    margin: 5%;
 }
 .row {
     display: flex;
@@ -182,15 +191,18 @@ ul {
     text-align: center;
 }
 
+.submitreset {
+    color:#f6f9f7;
+    background-color: #BF786A;
+}
 input:focus { 
-        background-color: #E0770C;
 
+        color: #3d4b4e;
 }
 
 .socials {
     margin-left: 25px;
     margin-right: 25px;
-    
 }
 
 /* iframe */
@@ -244,7 +256,7 @@ span > a {
     color: #b1b1b1;
 }
 span > a:hover {
-   color:#f6f9f7
+   color:#f6f9f7;
 
 }
 /* form submittion page */
