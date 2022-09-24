@@ -302,6 +302,9 @@ span > a:hover {
         #susan {
             width: 50%;
         }
+        #doginbath {
+            width: 50%;
+        }
     }
 
     @media screen and (max-width: 970px) {
