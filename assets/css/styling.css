@@ -25,7 +25,18 @@ p, li, span {
     padding: 0.5rem;
     
 }
-
+.bold {
+    font-weight: bold;
+}
+.text-center {
+    text-align: center;
+}
+.no-margins {
+    margin: 0;
+}
+.margin10 {
+    margin: 10px;
+}
 #header { 
     background-color: #E2F0E4;
     display: flex;
@@ -105,15 +116,6 @@ body {
     
     width: 100%;
 }
-
- .text-center {
-    text-align: center;
-}
-
-.bold {
-    font-weight: bold;
-}
-
 .about-us {
     color:#f6f9f7;
     display: flex;
@@ -122,16 +124,18 @@ body {
     border: none;
     border-radius: 10%;
     width: 75vw;
-    margin-left: 5%;
-    margin-right: 20%;
-    margin-top: 5%;  
+    margin: 10% 20% 0% 5%;
+     
 }
 .h3fontsize { 
     font-size: 150%;
 }
+#about-us-h {
+    margin: 5%;
+}
 .about-us-p {
     width: 65%;
-    margin: 5%;
+    margin: 2%;
 }
 .row {
     display: flex;
@@ -168,6 +172,9 @@ body {
     margin-top: 10px;
     
 }
+.contact-list {
+    font-size: 130%;
+}
 
 ul {
     list-style-type: none;
@@ -178,17 +185,10 @@ ul {
     text-align: center;
 
 }
-.no-margins {
-    margin: 0;
-}
-
-.margin10 {
-    margin: 10px;
-}
 #susan {
     height: 75%;
     border-radius: 50%;
-    margin: 10px 20px 20px 10px;
+    margin: 10px 20px 20px 2px;
 
 }
 #doginbath {
@@ -209,8 +209,10 @@ ul {
     padding-right: 2rem;
     font-family:'Lemonada', cursive ;
 }
+input:hover {
+    color:#3d4b4e
+}
 input:focus { 
-
         color: #3d4b4e;
 }
 
@@ -285,15 +287,24 @@ span > a:hover {
 }
 
 
-    
+    @media screen and (max-width: 1300px) {
+        #susan {
+            width: 45vw;
+        }
+    }
+        
+    }
 
-    @media screen and (max-width: 1038px) {
+    @media screen and (max-width: 1030px) {
         .contact-us {
             font-size: 90%;
             
         }
         iframe {
             width: 75%;
+        }
+        #susan {
+            width: 50%;
         }
     }
 
@@ -311,9 +322,7 @@ span > a:hover {
             display: flex;
             flex-direction: column;
         }
-        #susan {
-            width: 50%;
-        }
+        
 
         iframe {
             width: 100vw;
@@ -333,16 +342,15 @@ span > a:hover {
         .price-list {
             display: flex;
         }
-        #doginbed {            
-            width: 50%;
-        }
-        header > img {
+    
+        header > img  {
             width: 50%;
             height: 50%;
         }
 
-        .image870px {
+        body > img.image870px {
             width: 50%;
+            height: 50%;
 
         }
         
