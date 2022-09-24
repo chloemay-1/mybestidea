@@ -1,0 +1,317 @@
+
+#header { 
+    background-color: #E2F0E4;
+    display: flex;
+    justify-content:  space-around;
+    height: 35vh;
+    width: 100vw;
+    text-align: center;
+    
+
+    }
+ #dog-grooming { 
+        font-size: 250%;
+        text-align: center;
+
+    }
+
+ .scamps {
+        color: #3d4b4f;
+
+    }
+ #paw-print-one {
+        max-width: 30vw;
+        height: 30vh;
+        display: flex;
+        justify-content: center;
+        align-self:center;
+        padding: 10px 10px 10px 10px;
+        margin: 0%;
+     
+     }
+ #paw-print-two {
+         max-width: 30vw;
+         height: 30vh;
+         display:flex;
+         justify-content: center;
+         align-self: center;
+         padding: 10px 10px 10px 10px;
+         margin: 0%;
+     
+     }
+ #dog-grooming { 
+        font-size: 250%;
+        text-align: center;
+
+    }
+h1 {
+        font-size: 500%;
+        text-align: center;
+        
+     }
+ 
+
+/* Nav */
+
+
+nav { 
+    text-align: center;
+    background-color:#f78061;
+    padding: 1rem;
+    width: 100vw;
+}
+nav > a { 
+    text-decoration: none;
+    color: #b1bdba;
+    font-size: 150%;
+    padding: 2rem;
+    
+}
+ nav >a:hover {
+    color: #f6f9f7;
+ }
+
+ /*  Main Body */
+
+body { 
+    color: #3d4b4f;
+    
+    width: 100%;
+}
+
+ .text-center {
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.about-us {
+    color:#f6f9f7;
+    display: flex;
+    justify-content: space-between;
+    background-color: #BF786A;
+    border: none;
+    border-radius: 10%;
+    width: 75vw;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 5%;  
+}
+.h3fontsize { 
+    font-size: 150%;
+}
+.about-us-p {
+    width: 65%;
+    margin: 5%;
+}
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+.price-list {
+    color:#f6f9f7;
+    text-align: center;
+    background-color: #D0867C;
+    border: none;
+    border-radius: 10%;
+    max-width:  75vw;
+    margin-left: 20%;
+    margin-right: 5%;
+    margin-top: 10px;
+    
+    
+}
+.contact-us {
+    color: #f6f9f7;
+    background-color: #BF786A;
+    border: none;
+    border-radius: 10%;
+    max-width: 75vw;
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 20%;
+    margin-top: 10px;
+    
+}
+
+ul {
+    list-style-type: none;
+}
+
+.form {
+
+    text-align: center;
+
+}
+.no-margins {
+    margin: 0;
+}
+
+.margin10 {
+    margin: 10px;
+}
+#susan {
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 10px;
+
+}
+#doginbath {
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 10px;
+}
+
+
+#find-us {
+    text-align: center;
+}
+
+.submitreset {
+    color:#f6f9f7;
+    background-color: #BF786A;
+}
+input:focus { 
+
+        color: #3d4b4e;
+}
+
+.socials {
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+/* iframe */
+
+.mapouter{
+    display: flex;
+    justify-content: flex-end;
+    position:relative;
+    text-align:right;
+    height:300px;
+    width:350px;
+}
+.gmap_canvas {
+        overflow:hidden;
+        background:none!;
+        height:300px;
+        width:350px;
+}
+iframe {
+            width: 350;
+            height: 300;
+            border:0;
+             margin: 0;
+             border-radius: 10%;
+             display: flex;
+}
+
+
+
+
+
+/* Footer */ 
+
+
+footer {
+    width: 100%;
+    height: 15%;
+    padding: 1em;
+    background-color: #f78061;
+    text-align: center;
+    margin-top: 10px;
+}
+
+footer > h2 {
+    text-transform: uppercase;
+    color: #3d4b4e;
+    padding: 15px;
+    text-align: center;
+}
+span > a {
+    color: #b1b1b1;
+}
+span > a:hover {
+   color:#f6f9f7;
+
+}
+/* form submittion page */
+
+.formsubmit {
+    display: flex;
+    flex-direction:column ;
+    align-items: center;
+    text-align: center;
+
+
+}
+
+
+    
+
+    @media screen and (max-width: 1038px) {
+        .contact-us {
+            font-size: 90%;
+            
+        }
+        iframe {
+            width: 75%;
+        }
+    }
+
+    @media screen and (max-width: 970px) {
+
+        .contact-us {
+            display: flex;
+            flex-direction: column;
+        }
+        .price-list {
+            display: flex;
+            flex-direction: column;
+        }
+        .about-us {
+            display: flex;
+            flex-direction: column;
+        }
+        #susan {
+            width: 50%;
+        }
+
+        iframe {
+            width: 100vw;
+        }
+
+    }
+        
+    
+
+    @media  and (max-width: 870px) {
+
+    
+        header {
+            font-size: 75%;
+        }
+            
+        .price-list {
+            display: flex;
+        }
+        #doginbed {            
+            width: 50%;
+        }
+        header > img {
+            width: 50%;
+            height: 50%;
+        }
+
+        .image870px {
+            width: 50%;
+
+        }

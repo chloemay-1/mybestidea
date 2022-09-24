@@ -10,13 +10,20 @@ body {
     height: 100vh;
     box-sizing: border-box;
     background-color: #E2F0E4;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
 }
 h1 , h2 , h3 , nav {
     font-family: 'Kaushan Script', cursive;
+    font-size: 100%;
+    letter-spacing: 0.5rem;
 }
 p, li, span { 
     font-family: 'Lemonada', cursive;
-    font-size: 75%;
+    font-size: 75%; 
+    padding: 0.5rem;
+    
 }
 
 #header { 
@@ -82,13 +89,13 @@ nav {
 }
 nav > a { 
     text-decoration: none;
-    color: #b1bdba;
+    color: #f6f9f7;
     font-size: 150%;
     padding: 2rem;
     
 }
  nav >a:hover {
-    color: #f6f9f7;
+    color:  #b1b1b1;
  }
 
  /*  Main Body */
@@ -198,6 +205,9 @@ ul {
 .submitreset {
     color:#f6f9f7;
     background-color: #BF786A;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    font-family:'Lemonada', cursive ;
 }
 input:focus { 
 
