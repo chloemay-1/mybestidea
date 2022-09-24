@@ -332,25 +332,29 @@ span > a:hover {
     
 
     @media  and (max-width: 897px) {
-
+        
+        body {
+            overflow-x: hidden;
+        }
         header {
             font-size: 75%;
-        
-        header > img {
-            width: 10vw;
-        }
+            }
+        header > img  {
+                width: 50%;
+                height: 50%;
+            }
+    
         .price-list {
             display: flex;
             flex-direction: column-reverse;
-        }
+            }
     
-        header > img  {
+        body > img {
             width: 50%;
-            height: 50%;
-        }
-        #doginbath {
-            width: 200px;
-            height: 200px;
+        
+            }
+        iframe {
+            width: 100%;
         }
     }  
 
