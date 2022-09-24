@@ -351,7 +351,7 @@ span > a:hover {
             width: 90vw;
             margin: 0 auto;
         }
-        #paw-print-two {
+        #paw-print-one {
             display: none
         }
          
@@ -385,19 +385,19 @@ span > a:hover {
         #dog-grooming {
             font-size: 90%;
         }
-        #paw-print-two {
+        #paw-print-one {
             display: none
         }
     }  
     
     @media screen and (max-width: 705px){
-        #header
-        {
-            font-size: 150%;
-            margin: 
+        h1 {
+            font-size: 35% ;
         }
-        #paw-print-one {
+       
+        #paw-print-two {
             height: 15vh;
+            margin: 0 auto;
         }
         iframe {
             display: flex;
