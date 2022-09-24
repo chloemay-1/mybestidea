@@ -30,7 +30,7 @@ h1 {
     text-align: center;
  }
 .bold {
-    font-weight: bold;
+    font-weight: bolder;
 }
 .text-center {
     text-align: center;
@@ -365,7 +365,7 @@ span > a:hover {
             flex-direction: column-reverse;
             }
     
-        body > img {
+        div > img {
             width: 50%;
         
             }
