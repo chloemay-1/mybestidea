@@ -319,12 +319,15 @@ span > a:hover {
             flex-direction: column;
         }
         .about-us {
+            text-align: center;
             display: flex;
             flex-direction: column;
         }
-        
+        .about-us-p {
+            align-items: center;
+        }
 
-        iframe {
+        #iframe {
             width: 100vw;
         }
 
@@ -332,27 +335,31 @@ span > a:hover {
         
     
 
-    @media  and (max-width: 870px) {
+    @media  and (max-width: 897px) {
 
-    
         header {
             font-size: 75%;
+        
+        header > img {
+            width: 10vw;
         }
-            
         .price-list {
             display: flex;
+            flex-direction: column-reverse;
         }
     
         header > img  {
             width: 50%;
             height: 50%;
         }
-
-        body > img.image870px {
-            width: 50%;
+        #doginbath {
+            width: 20%;
             height: 50%;
-
         }
+    }  
+
+    
+      
         
 
     
