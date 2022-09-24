@@ -317,10 +317,8 @@ span > a:hover {
         h2 {
             font-size: small;
         }
-        header > img {
-            width: 10vw;
-            margin: 1%;
-
+        header > img  {
+            width: 25vw;
         }
         .contact-us {
             display: flex;
