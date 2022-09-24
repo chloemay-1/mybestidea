@@ -18,6 +18,7 @@ p, li, span {
     font-family: 'Lemonada', cursive;
     font-size: 75%;
 }
+
 #header { 
     background-color: #E2F0E4;
     display: flex;
@@ -117,6 +118,9 @@ body {
     margin-left: 5%;
     margin-right: 20%;
     margin-top: 5%;  
+}
+.h3fontsize { 
+    font-size: 150%;
 }
 .about-us-p {
     width: 65%;
