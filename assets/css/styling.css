@@ -311,11 +311,14 @@ span > a:hover {
     }
 
     @media screen and (max-width: 970px) {
+        body {
+            overflow-x: hidden;
+        }
         h1  {
             font-size: 150%;
         }
         h2 {
-            font-size: small;
+            font-size: 150%;
         }
         header > img  {
             width: 25vw;
