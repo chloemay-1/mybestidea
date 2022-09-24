@@ -317,7 +317,10 @@ span > a:hover {
     }
 
     @media screen and (max-width: 970px) {
-
+        headder > img {
+            width: 15vw;
+            he
+        }
         .contact-us {
             display: flex;
             flex-direction: column;
@@ -338,7 +341,7 @@ span > a:hover {
         #iframe {
             width: 100vw;
         }
-
+         
     }
         
     
