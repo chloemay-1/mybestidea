@@ -52,13 +52,15 @@ h1 {
     width: 100vw;
     text-align: center;
      }
- #dog-grooming { 
-        font-size: 250%;
-        text-align: center;
-    }
 
- .scamps {
+ #scamps {
         color: #3d4b4f;
+        font-size: 400%;
+    }
+#dog-grooming {
+        color: #3d4b4f; 
+        font-size: 200%;
+        margin: 10% 10% 10% 10%;
     }
  #paw-print-one {
         max-width: 30vw;
@@ -339,9 +341,12 @@ span > a:hover {
             flex-direction: column;
             
         }
-        #iframe {
+        iframe {
             width: 90vw;
             margin: 0 auto;
+        }
+        #paw-print-two {
+            display: none
         }
          
     }
@@ -350,13 +355,11 @@ span > a:hover {
 
     @media  and (max-width: 897px) {
         
-        body {
-            overflow-x: hidden;
-        }
-        header {
+        
+        #header {
             font-size: 75%;
             }
-        header > img  {
+        .header > img  {
                 width: 25vw;
             }
     
@@ -371,6 +374,12 @@ span > a:hover {
             }
         iframe {
             width: 100%;
+        }
+        #dog-grooming {
+            font-size: 90%;
+        }
+        #paw-print-two {
+            display: none
         }
     }  
 
