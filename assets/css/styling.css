@@ -332,11 +332,14 @@ span > a:hover {
         }
         .about-usclass {
             display: flex;
-            text-align: center;
+            
             justify-content: center;
             align-content: center;
             flex-direction: column;
             
+        }
+        .about-us-p {
+            text-align: center;
         }
 
         #iframe {
