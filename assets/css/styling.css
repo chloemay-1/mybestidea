@@ -403,7 +403,9 @@ span > a:hover {
             display: flex;
             align-items: center;
             align-content: center;
-            margin: 0 auto; 
+            width: 200px;
+            padding: 0;
+            margin-top: 20px; 
         }
     }
 
