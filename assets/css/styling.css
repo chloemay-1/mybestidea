@@ -47,7 +47,7 @@ h1 {
 #header { 
     background-color: #E2F0E4;
     display: flex;
-    justify-content:  space-around;
+    justify-content:  space-evenly;
     height: 35vh;
     width: 100vw;
     text-align: center;
