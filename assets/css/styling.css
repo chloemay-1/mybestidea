@@ -97,6 +97,7 @@ nav {
     background-color:#f78061;
     padding: 1rem;
     width: 100vw;
+
 }
 nav > a { 
     text-decoration: none;
@@ -124,18 +125,24 @@ body {
     border: none;
     border-radius: 10%;
     width: 75vw;
-    margin: 10% 20% 0% 5%;
+    margin: 3% 20% 0% 5%;
      
 }
 .h3fontsize { 
     font-size: 150%;
 }
 #about-us-h {
-    margin: 5%;
+    margin: 3%;
 }
 .about-us-p {
     width: 65%;
     margin: 2%;
+}
+#susan {
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 2px;
+
 }
 .row {
     display: flex;
@@ -156,8 +163,18 @@ body {
     margin-left: 20%;
     margin-right: 5%;
     margin-top: 10px;
-    
-    
+    margin: 2% 5% 0% 20%;
+}
+.price-list-h {
+    margin: 5%;
+}
+ul {
+    list-style-type: none;
+}
+#doginbath {
+    height: 75%;
+    border-radius: 50%;
+    margin: 10px 20px 20px 10px;
 }
 .contact-us {
     color: #f6f9f7;
@@ -170,38 +187,18 @@ body {
     margin-left: 5%;
     margin-right: 20%;
     margin-top: 10px;
-    
+    margin: 2% 20% 2% 5%;
 }
+.contact-list-h {
+    margin: 5%;
+}
+
 .contact-list {
     font-size: 130%;
 }
-
-ul {
-    list-style-type: none;
-}
-
 .form {
-
-    text-align: center;
-
-}
-#susan {
-    height: 75%;
-    border-radius: 50%;
-    margin: 10px 20px 20px 2px;
-
-}
-#doginbath {
-    height: 75%;
-    border-radius: 50%;
-    margin: 10px 20px 20px 10px;
-}
-
-
-#find-us {
     text-align: center;
 }
-
 .submitreset {
     color:#f6f9f7;
     background-color: #BF786A;
@@ -261,7 +258,6 @@ footer {
     text-align: center;
     margin-top: 10px;
 }
-
 footer > h2 {
     text-transform: uppercase;
     color: #3d4b4e;
@@ -352,7 +348,7 @@ span > a:hover {
             width: 50%;
             height: 50%;
         }
-        img#doginbath {
+        #doginbath {
             width: 200px;
             height: 200px;
         }
