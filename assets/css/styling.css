@@ -285,6 +285,9 @@ span > a:hover {
 
 
     @media screen and (max-width: 1300px) {
+        html {
+            overflow-x: hidden;
+        }
         #susan {
             width: 45vw;
         }
@@ -348,8 +351,14 @@ span > a:hover {
             margin: 0 auto;
         }
         iframe {
-            width: 90vw;
-            margin: 0 auto;
+            display: flex;
+            align-items: center;
+            align-content: center;
+            width: 500px;
+            padding: 0;
+            margin-top: 20px;
+        }
+
         }
         #paw-print-one {
             display: none
@@ -379,8 +388,12 @@ span > a:hover {
         
             }
         iframe {
-            width: 100%;
-            margin: 
+            display: flex;
+            align-items: center;
+            align-content: center;
+            width: 300px;px;
+            padding: 0;
+            margin-top: 20px;
         }
         #dog-grooming {
             font-size: 90%;
