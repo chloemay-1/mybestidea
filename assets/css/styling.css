@@ -116,6 +116,9 @@ body {
     color: #3d4b4f;
     width: 100%;
 }
+.welcome {
+    font-size: 50px;
+}
 .about-usclass {
     color:#f6f9f7;
     display: flex;
@@ -305,6 +308,7 @@ span > a:hover {
         }
         #susan {
             width: 50%;
+            margin: 0 auto;
         }
         #doginbath {
             width: 50%;
@@ -339,7 +343,9 @@ span > a:hover {
             display: flex;
             justify-content: center;
             flex-direction: column;
-            
+        }
+        .about-us-p {
+            margin: 0 auto;
         }
         iframe {
             width: 90vw;
@@ -353,11 +359,11 @@ span > a:hover {
         
     
 
-    @media  and (max-width: 897px) {
+    @media screen and (max-width: 897px) {
         
         
         #header {
-            font-size: 75%;
+            font-size: 30px;
             }
         .header > img  {
                 width: 25vw;
@@ -365,7 +371,7 @@ span > a:hover {
     
         .price-list {
             display: flex;
-            flex-direction: column-reverse;
+            flex-direction: column
             }
     
         div > img {
@@ -374,6 +380,7 @@ span > a:hover {
             }
         iframe {
             width: 100%;
+            margin: 
         }
         #dog-grooming {
             font-size: 90%;
@@ -382,6 +389,23 @@ span > a:hover {
             display: none
         }
     }  
+    
+    @media screen and (max-width: 705px){
+        #header
+        {
+            font-size: 150%;
+            margin: 
+        }
+        #paw-print-one {
+            height: 15vh;
+        }
+        iframe {
+            display: flex;
+            align-items: center;
+            align-content: center;
+            margin: 0 auto; 
+        }
+    }
 
     
       
