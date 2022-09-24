@@ -352,9 +352,9 @@ span > a:hover {
             width: 50%;
             height: 50%;
         }
-        #doginbath {
-            width: 20%;
-            height: 50%;
+        img#doginbath {
+            width: 200px;
+            height: 200px;
         }
     }  
 
