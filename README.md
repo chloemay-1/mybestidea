@@ -74,6 +74,10 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ![form:no email](assets/readme-images/formnoemail.png "form submit with no email")
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
 
+ ## Typography 
+ This website uses the fonts Kaushan Script, and Lemonada. I used both of these fonts in cursive as I think its adds an elegance to the website. I used Kaushan Script in cursive for my headings and the nav bar as I felt with letter spacing these would be easy to read and would not be off putting as they are not chunks of text. 
+ I used Lemonada in cursive for all other element of the webiste, although the font is cursive, it holds a very slight slant. I find this easy to read as well as matching Kaushan Script cursive, as they both hold a slant. 
+
 
 
  ### Limitations
@@ -81,4 +85,4 @@ I added these colors to the divs, and then my font color was hard to read (#e077
 
  I found another limitation to be finding photos of dog grooming, before and after pictures. A lot of photos that could have been used I would have to pay for. I mainly sourced my images from pexels for free. 
 
-I found in the deployment if my website onto phone screens, that samsung phone were giving a horizontal scroll bar, but it has no use unless you zoomed into the website. I did not find this on any iPhone that my project was opened on. I used dev tools, and my very own tutors very useful extension Unicorn revealer to show what the issue may have been. It seems the nav bar was my issue. I attepted to fix same. 
+I found in the deployment if my website onto phone screens, that samsung phone were giving a horizontal scroll bar, but it has no use unless you zoomed into the website. I did not find this on any iPhone that my project was opened on. I used dev tools, and my very own class mentor Simen Daehlins very useful extension Unicorn revealer to show what the issue may have been. It seems the nav bar was my issue. I attepted to fix same. 
