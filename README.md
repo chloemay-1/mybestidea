@@ -38,23 +38,28 @@ I plan on attaching a form for users to add their details and dogs details, and 
  * #ffff4a
  * #9565q8
  * e3f0e4
- ![firstheader](assets/readme-images/header.png "first header")
- 
-
- Toward the end of compeleting my project, I was not extremelly happy with how everything was looking together. Something about it wasnt sitting right with me. I decided to add a background color to the DIVS in the main body for about us, price list, and contact us. To pick the color for the background I used color dropper to take the 2 shades of brown from the paw prints in the header. This left me with 2 colors. 
+ Toward the end of compeleting my project, I was not extremelly happy with how everything was looking together. Something about it wasnt sitting right with me.
+I decided to add a background color to the DIVS in the main body for about us, price list, and contact us. To pick the color for the background I used color dropper to take the 2 shades of brown from the paw prints in the header. This left me with 2 colors. 
  * #d0867c
  * #bf786a
+I added these colors to the divs, and then my font color was hard to read (#e0770c). For convinence until I decided to change the font color in the body to white #ffffff. This was a temporary move while I contemplated my color palette. 
+ ### My inital color palette
+ ![firstheader](assets/readme-images/firstheader.png "first header")
+ ![headeranddivorange](assets/readme-images/firstheader-firstdiv.png "First header and div")
+ ![firstfooter](assets/readme-images/firstfooter.png "first footer")
+ I was not happy with the way the colors above highlighted eachother, and felt it was too much on the eye of the user. 
 
+ I decided to use colormind to help with a decision. I uploaded the picture of the paw print, and generated a few different pallets, although these pallets were very dark. See example of dark color palette. 
+ ![darkcolors](assets/readme-images/darkcolors-unused.png "dark colors")
 
- I added these colors to the divs, and then my font color was hard to read (#e0770c). For convinence until I decided to change the font color in the body to white #ffffff. This was a temporary move while I contemplated my color palette. 
- I decided to use colormind to help with a decision. I uploaded the picture of the paw print, and generated a few different pallets, although these pallets were very dark. 
- . I decided to try search for a pallet that holds a similar color too #d0867c
+ I decided to try search for a pallet that holds a similar color too #d0867c
  This left me with a palette of 
  * f6f9f7
  * b1bdba
  * f78061
  * dd9273
  * 3d4b47
+ ![mycolors](assets/readme-images/colorpaletteused.png "My colors")
  
 
  I tested out multiple different combinations of the palette I chose, and finally decided which color for which aspect. 
