@@ -10,7 +10,7 @@
 body { 
     height: 100vh;
     box-sizing: border-box;
-    background-color: #E2F0E4;
+    background-color: #e3f0e4;
     overflow-x: hidden;
     overflow-y: scroll;
     scroll-behavior: smooth;
@@ -46,7 +46,7 @@ h1 {
     font-size: 150%;
 }
 #header { 
-    background-color: #E2F0E4;
+    background-color: #e3f0e4;
     display: flex;
     justify-content:  space-evenly;
     height: 35vh;

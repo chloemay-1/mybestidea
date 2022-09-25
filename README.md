@@ -57,23 +57,44 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  I decided to use colormind to help with a decision. I uploaded the picture of the paw print, and generated a few different pallets, although these pallets were very dark. See example of dark color palette. 
  ![darkcolors](assets/readme-images/darkcolors-unused.png "dark colors")
 
- I decided to try search for a pallet that holds a similar color too #d0867c
+
+
+ ### My final color palette 
+  I decided to try search for a pallet that holds a similar color too #d0867c
  This left me with a palette of 
  * f6f9f7
  * b1bdba
  * f78061
  * dd9273
  * 3d4b47
- ![mycolors](assets/readme-images/colorpaletteused.png "My colors")
 
- ### My final color palette 
+![mycolors](assets/readme-images/colorpaletteused.png "My colors")
  
  I tested out multiple different combinations of the palette I chose, and finally decided which color for which aspect. 
+
+ ## Features
+### Body
+I decided to keep the background color #e3f0e4, from my orginal palette, I felt this color was quite soft and worked well with all colors in the new palette. I felt this color does not draw away from the main aspects of the website. 
+ ### Header
+ I decided to have the header background color the same color as the rest of the body #e3f0e4. I felt the contrast between this shade and the shade I have chosen for the font #3d4b4f is enough that your eyes dont get lost between them, but isnt too strict that you feel its in your face. I feel this background works well also with the shades of the pawprints. 
  ![Header](assets/readme-images/used-header.png "My header")
+ ### Nav
+I choose a bright background color for my nav bar #f78061. I really enjoyed the contrast to break up the header and the main body of the website. I feel it draws your eyes down the page. I used the off white shade #f6f9f7 for my font. I feel this is easily readable. 
  ![nav](assets/readme-images/nav-bar.png "My nav bar")
+ I added the light grey color #b1bdba from my palette for the hover element of the nav bar. I feel this grey is just enough to flag you are hovering over a link.
  ![Mav hover](assets/readme-images/nav-bar-hover.png "My nav bar :hover")
+ ### Body
+ I start off my body by welcoming users to the website, using the same shade as my header font #e3f0e4. 
+
+ I use 3 sections in my main body element. 
+ * About Us
+ * Prices
+ * Contact us
  ![about us](assets/readme-images/about-us.png "about us")
  ![body](assets/readme-images/used-body.png "body")
+
+ For my main three sections I used two background colors. The first and last section have a background color of #bf786a, and the middle section has a background color of #d0867c. Both of these shades come from using [Google Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) on the pawprint image in the header. I used this before I decided to move away from my original color pallete of oranges/reds.
+ 
  ![form:hover](assets/readme-images/form-hover.png "Hover over submit on form")
  ![form:no email](assets/readme-images/formnoemail.png "form submit with no email")
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
