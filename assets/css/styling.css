@@ -416,7 +416,7 @@ span > a:hover {
             height: 15vh;
             margin: 0 auto;
         }
-        #iframe {
+        iframe {
             width: 20vw;
             height: 50vh;
         }
@@ -431,20 +431,20 @@ span > a:hover {
         html {
             overflow-x: hidden ;
         }
-            header {
+        header {
                 width: 100vw;
             }
-            nav {
+        nav {
                 width: 95vw;
             }
-            nav > a {
+        nav > a {
             width: 90vw; 
 
         }
         footer > span {
             width: 90vw;
         }
-        #iframe {
+        iframe {
             width: 25px;
             height: 25px;
         }
@@ -466,7 +466,21 @@ span > a:hover {
                 display: flex;
                 flex-direction: column;
             }
+            iframe {
+                width: 200px;
+                 height: 200px; 
+                 
             
+            }
+            .mapouter {
+                height:200px;
+                width:200px;
+                }
+            
+                #gmap_canvas {
+                    height:200px;
+                    width:200px;
+                }
     }
 
     @media screen and (max-width: 320px) {
