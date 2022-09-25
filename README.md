@@ -79,7 +79,7 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
 
  ## Typography 
- This website uses the fonts Kaushan Script, and Lemonada. I used both of these fonts in cursive as I think its adds an elegance to the website. I used Kaushan Script in cursive for my headings and the nav bar as I felt with letter spacing these would be easy to read and would not be off putting as they are not chunks of text. 
+ This website uses the fonts Kaushan Script, and Lemonada, which were imported from [Google Fonts](https://fonts.google.com/). I used both of these fonts in cursive as I think its adds an elegance to the website. I used Kaushan Script in cursive for my headings and the nav bar as I felt with letter spacing these would be easy to read and would not be off putting as they are not chunks of text. 
  I used Lemonada in cursive for all other element of the webiste, although the font is cursive, it holds a very slight slant. I find this easy to read as well as matching Kaushan Script cursive, as they both hold a slant. 
 
  ## Imagery
