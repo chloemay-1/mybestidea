@@ -101,12 +101,15 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
  I added a form to the contact us section of the website. This gives users the option to send their contact details, and a team member will be in contact shortly. 
  
  I added the same styling to the Submit and Reset buttons of the form as I did to the nav elements. 
+ 
  ![form:hover](assets/readme-images/form-hover.png "Hover over submit on form")
 
  If a user enters an invalid email they will not be about to proceed with submission. 
+
  ![form:no email](assets/readme-images/formnoemail.png "form submit with no email")
 
  If a user enters other characters that are not numbers to both Numbers of Dogs, and Phone Number, they will not be able to proceed with submission.
+
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
 
  ### Footer
