@@ -46,7 +46,7 @@ I decided to add a background color to the DIVS in the main body for about us, p
  * #d0867c
  * #bf786a
 
- 
+
 I added these colors to the divs, and then my font color was hard to read (#e0770c). For convinence until I decided to change the font color in the body to white #ffffff. This was a temporary move while I contemplated my color palette. 
  ### My inital color palette
  ![firstheader](assets/readme-images/firstheader.png "first header")
@@ -81,6 +81,12 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ## Typography 
  This website uses the fonts Kaushan Script, and Lemonada. I used both of these fonts in cursive as I think its adds an elegance to the website. I used Kaushan Script in cursive for my headings and the nav bar as I felt with letter spacing these would be easy to read and would not be off putting as they are not chunks of text. 
  I used Lemonada in cursive for all other element of the webiste, although the font is cursive, it holds a very slight slant. I find this easy to read as well as matching Kaushan Script cursive, as they both hold a slant. 
+
+ ## Imagery
+ The imagery used in the website is used to make the user aware from the get go, this is a website to do with animals (especially dogs). From the paw prints in the header, to the image of a dog groomer showing another younger woman the way. This image was used to show Scamps is a family run business with good connection within. I used the image of a dog in the bath next to the price list, as having a bath is included in most grooms. I would have liked to have a gallery of some before and after pictures, although I could not achieve this with the free images available online. I used a fun image of a dog on my form submittion page, there is nothing to do on the submission page and I thought this image added to the page well. 
+
+ 
+ I got all of my images from Pexels
 
 
 
