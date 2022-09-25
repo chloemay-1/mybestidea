@@ -228,20 +228,20 @@ input:focus {
     justify-content: flex-end;
     position:relative;
     text-align:right;
-    height:300px;
-    width:350px;
+    height: 350px;
+    width:300px;
 }
 .gmap_canvas {
-        overflow:hidden;
-        background:none!;
-        height:300px;
-        width:350px;
+        overflow: hidden;
+        background: none;
+        height: 1%;
+        width: 100%;
 }
 iframe {
-            width: 350;
-            height: 300;
+            width: 350px;
+            height: 300px;
             border:0;
-             margin: 0;
+             margin: 10px;
              border-radius: 10%;
              display: flex;
 }
@@ -304,7 +304,7 @@ span > a:hover {
         }
     }
         
-    }
+    
 
     @media screen and (max-width: 1030px) {
         .contact-us {
