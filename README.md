@@ -141,7 +141,8 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
 
 Wireframes were made using [Balsamiq](https://balsamiq.com/)
-### Deployment 
+
+## Deployment 
 
 Following writing the code, adding, commiting, and pushing to github, I followed the following steps to deploy my website 
 * Opened mybestidea repository on github .
@@ -154,7 +155,8 @@ Following writing the code, adding, commiting, and pushing to github, I followed
 
 
 [My Live Link](https://chloemay-1.github.io/mybestidea/)
-### Testing
+
+## Testing
 
 
  I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. I fixed this error by added word spacing, and made list into a column.  
@@ -162,7 +164,9 @@ Following writing the code, adding, commiting, and pushing to github, I followed
 
 I found an issue to be on the deployed site, on certain phones (Samsung) there was a horizontal nav bar that had no use. The friends/family who have Samsungs all said they could not use this scroll bar unless they zoomed into the website, then the scroll bar grew and they could us it. I found this one of my toughest issues to try and fix. Toward the end of my project this was still in issue on some samsung smart phones, but not all according to my family and friends. 
 
-When I changed used chrome Dev tools and changed to samsung smart phone, there was no horizontal scrool. 
+ I did not find this issue on any iPhone that my project was opened on. I used dev tools, and my very own class mentor Simen Daehlins very useful extension Unicorn revealer to show what the issue may have been. It did show that some elements were overflowing - Although when used with chrome Dev Tools and Samsung phone screen sizing, the horizontal scroll bar was ***not*** there.
+
+ 
 ### CSS and HTML Validator
 
 
@@ -194,9 +198,34 @@ I tested my HTML code again and got No Errors.
 
 ![HTML No Errors](assets/readme-images/htmlnoerrors.png)
 
+## Technologies Used 
+
+### Tools
+* Github
+* Gitpod
+* Chrome Developer Tools
+* Balsamiq (Wireframes)
+* [Google Map Generator](https://google-map-generator.com/)
+* Google Fonts
+* Pexels images
+* Youtube
+
+### Languages Used
+* HTML
+* CSS
+
+## Credits 
+
+I would not have made it through the project if it was not for coders alike on [Slack Overflow](https://stackoverflow.com/), and everybody who has ever asked and/or answered a question on both Slack overflow, and our very own Code Institute channels on slack. 
+
+I heavlily relied on the Coders Coffee House code, and the Love Running Project. 
+
+I would like to thank both my Mentor, and my class Mentor for all the help 
+
+* Owonikoko Oluwaseun
+* Simen Daehlin
 
 
 
- I found another limitation to be finding photos of dog grooming, before and after pictures. A lot of photos that could have been used I would have to pay for. I mainly sourced my images from pexels for free. 
 
-I found in the deployment if my website onto phone screens, that samsung phone were giving a horizontal scroll bar, but it has no use unless you zoomed into the website. I did not find this on any iPhone that my project was opened on. I used dev tools, and my very own class mentor Simen Daehlins very useful extension Unicorn revealer to show what the issue may have been. It seems the nav bar was my issue. I attepted to fix same. 
+ 
