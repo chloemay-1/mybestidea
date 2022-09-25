@@ -75,8 +75,8 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  
  I tested out multiple different combinations of the palette I chose, and finally decided which color for which aspect. 
 
- ## Features
-### Body
+ # Features
+## Content
 I decided to keep the background color #e3f0e4, from my orginal palette, I felt this color was quite soft and worked well with all colors in the new palette. I felt this color does not draw away from the main aspects of the website. 
  ### Header
  I decided to have the header background color the same color as the rest of the body #e3f0e4. I felt the contrast between this shade and the shade I have chosen for the font #3d4b4f is enough that your eyes dont get lost between them, but isnt too strict that you feel its in your face. I feel this background works well also with the shades of the pawprints. 
@@ -198,6 +198,11 @@ I tested my HTML code again and got No Errors.
 
 ![HTML No Errors](assets/readme-images/htmlnoerrors.png)
 
+I also tested my contactform.html. This showed one error - My image did not have an alt. I fixed this and my code had no errors. 
+
+![Contact from no errors](assets/readme-images/contactformnoerrors.png)
+<hr>
+
 ## Technologies Used 
 
 ### Tools
@@ -224,6 +229,9 @@ I would like to thank both my Mentor, and my class Mentor for all the help
 
 * Owonikoko Oluwaseun
 * Simen Daehlin
+
+
+<hr>
 
 
 
