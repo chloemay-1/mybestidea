@@ -101,7 +101,7 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
  I added a form to the contact us section of the website. This gives users the option to send their contact details, and a team member will be in contact shortly. 
  
  I added the same styling to the Submit and Reset buttons of the form as I did to the nav elements. 
- 
+
  ![form:hover](assets/readme-images/form-hover.png "Hover over submit on form")
 
  If a user enters an invalid email they will not be about to proceed with submission. 
@@ -157,10 +157,43 @@ Following writing the code, adding, commiting, and pushing to github, I followed
 ### Testing
 
 
+ I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. I fixed this error by added word spacing, and made list into a column.  
 
 
- ### Limitations
- I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
+I found an issue to be on the deployed site, on certain phones (Samsung) there was a horizontal nav bar that had no use. The friends/family who have Samsungs all said they could not use this scroll bar unless they zoomed into the website, then the scroll bar grew and they could us it. I found this one of my toughest issues to try and fix. Toward the end of my project this was still in issue on some samsung smart phones, but not all according to my family and friends. 
+
+When I changed used chrome Dev tools and changed to samsung smart phone, there was no horizontal scrool. 
+### CSS and HTML Validator
+#### CSS
+
+I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) to check my css code. 
+
+When I first sent my CSS code into the validator I got 7 issues. 5 of them being pearse issues, which were simple fixes. The other 2 issues were also quick fixes, I had missed unit after width and height for one element.
+![CSS Validator before fixes](assets/readme-images/cssvalidator7.png)
+
+After fixing these errors I sent my code through again and was given No Errors Found
+![CSS Validator No Errors](assets/readme-images/cssnoerrors.png)
+
+#### HTML
+
+I used [W3C HTML Validator](https://validator.w3.org/) to check my HTML code. 
+
+When I first used the HTML Validator I was shown 5 errors. 3 errors were stray tags through-out the code, which was a quick fix. 
+
+![HTML Code Errors](assets/readme-images/htmlvalidatorerrors.png)
+![HTML Code Errors](assets/readme-images/htmlerrors2.png)
+
+I removed the stray tags from my code.
+I removed the target=_blank from my submit button. This made no difference to its function.
+I removed the code that was causing the error. Changed the h1 that was causing an issue to a H2 and styled accordingly.
+
+
+I tested my HTML code again and got No Errors. 
+
+![HTML No Errors](assets/readme-images/htmlnoerrors.png)
+
+
+
 
  I found another limitation to be finding photos of dog grooming, before and after pictures. A lot of photos that could have been used I would have to pay for. I mainly sourced my images from pexels for free. 
 
