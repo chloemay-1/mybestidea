@@ -38,7 +38,9 @@ I plan on attaching a form for users to add their details and dogs details, and 
  * #ffff4a
  * #9565q8
  * e3f0e4
-
+ ! [image] (..assets/readme-images/header.png)
+ ! [image] (..assets/readme-images/footer.png)
+ ! [image] (..assets/readme-images/header-firstdiv.png)
 
  Toward the end of compeleting my project, I was not extremelly happy with how everything was looking together. Something about it wasnt sitting right with me. I decided to add a background color to the DIVS in the main body for about us, price list, and contact us. To pick the color for the background I used color dropper to take the 2 shades of brown from the paw prints in the header. This left me with 2 colors. 
  * #d0867c
@@ -60,4 +62,4 @@ I plan on attaching a form for users to add their details and dogs details, and 
 
  ### Limitations
  . . I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
- 
+

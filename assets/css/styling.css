@@ -449,8 +449,10 @@ span > a:hover {
 
     @media screen and (max-width: 320px) {
         body {
-            overflow-x: hidden ;
+            overflow-x:inherit ;
+            
         }
+        
         paw-print-two {
             width: 5vw;
             height: 10vh;
