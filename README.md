@@ -139,6 +139,7 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 * [Computer Three](assets/wireframes/wireframe/computer/wireframecomputer3.png "Computer three")
 * [Computer Four](assets/wireframes/wireframe/computer/wireframecomputer4.png "Computer four")
 
+Although my final website is not the exact same to the wireframes I made, I did rely on them to recall what I was planning on doing. 
 
 Wireframes were made using [Balsamiq](https://balsamiq.com/)
 
