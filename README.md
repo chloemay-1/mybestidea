@@ -57,3 +57,7 @@ I plan on attaching a form for users to add their details and dogs details, and 
  
 
  I tested out multiple different combinations of the palette I chose, and finally decided which color for which aspect. 
+
+ ### Limitations
+ . . I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
+ 

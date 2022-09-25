@@ -373,9 +373,9 @@ span > a:hover {
     @media screen and (max-width: 897px) {
         
         
-        #header {
-            font-size: 30px;
-            }
+        h1, h2 {
+            font-size: 1rem; 
+        }
         .header > img  {
                 width: 25vw;
             }
@@ -406,9 +406,7 @@ span > a:hover {
     }  
     
     @media screen and (max-width: 705px){
-        h1 {
-            font-size: 25px ;
-        }
+        
        
         #paw-print-two {
             height: 15vh;
@@ -432,6 +430,9 @@ span > a:hover {
 
     @media screen and ( max-width: 350px ){
             #scamps {
+                font-size: 1rem;
+            }
+            #dog-grooming {
                 font-size: 1rem;
             }
             
