@@ -431,6 +431,9 @@ span > a:hover {
     }
 
     @media screen and ( max-width: 350px ){
+            body {
+                overflow-x: hidden;
+            }
             #scamps {
                 font-size: 1rem;
             }
