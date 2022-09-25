@@ -432,7 +432,7 @@ span > a:hover {
 
     @media screen and ( max-width: 350px ){
             #scamps {
-                font-size: 2rem;
+                font-size: 1rem;
             }
             
             nav > a {
