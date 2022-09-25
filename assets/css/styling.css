@@ -228,7 +228,7 @@ iframe {
     width: 300px;
      height: 300px; 
      border-radius: 10%;
-     margin: 2% 2% 2% 2%;
+     margin: 10% 2% 2% 2%;
      
 
 }
@@ -416,13 +416,9 @@ span > a:hover {
             height: 15vh;
             margin: 0 auto;
         }
-        iframe > #gmapcanvas {
-            display: flex;
-            align-items: center;
-            align-content: center;
-            width: 200px;
-            padding: 0;
-            margin-top: 20px; 
+        #iframe {
+            width: 20vw;
+            height: 50vh;
         }
         nav > a {
             display: flex;
@@ -448,7 +444,7 @@ span > a:hover {
         footer > span {
             width: 90vw;
         }
-        iframe {
+        #iframe {
             width: 25px;
             height: 25px;
         }
