@@ -85,9 +85,18 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ## Imagery
  The imagery used in the website is used to make the user aware from the get go, this is a website to do with animals (especially dogs). From the paw prints in the header, to the image of a dog groomer showing another younger woman the way. This image was used to show Scamps is a family run business with good connection within. I used the image of a dog in the bath next to the price list, as having a bath is included in most grooms. I would have liked to have a gallery of some before and after pictures, although I could not achieve this with the free images available online. I used a fun image of a dog on my form submittion page, there is nothing to do on the submission page and I thought this image added to the page well. 
 ## Wireframe 
-* [Phone](..mybestidea/wireframes/phone)
-* [Phone])
-* [Laptop](/mybestidea/wireframes/wireframe/computer)
+Phone
+    ![Phone](../mybestidea/wireframes/phone/phone1.png "Phone One")</summary>
+     ![Phone](../mybestidea/wireframes/phone/phone2.png "Phone Two")
+     ![Phone](../mybestidea/wireframes/phone/phone3.png "Phone Three")
+     ![Phone](../wireframes/phone/phone4.png "Phone Four")
+
+Computer
+    * ![Computer](wireframes/wireframe/computer/computer1.png "Computer One")
+    * ![Computer](wireframes/wireframe/computer/wireframecomputer2.png "Computer Two")
+    * ![Computer](wireframes/wireframe/computer/wireframecomputer3.png "Computer three")
+    * ![Computer](wireframes/wireframe/computer/wireframecomputer4.png "Computer four")
+
    
 
 
