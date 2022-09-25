@@ -430,9 +430,10 @@ span > a:hover {
     }
 
     @media screen and ( max-width: 350px ){
-             header {
-                font-size: 20px;
+            #scamps {
+                font-size: 2rem;
             }
+            
             nav > a {
                 display: flex;
                 flex-direction: column;
