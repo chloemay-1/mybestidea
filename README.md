@@ -38,10 +38,7 @@ I plan on attaching a form for users to add their details and dogs details, and 
  * #ffff4a
  * #9565q8
  * e3f0e4
- ! [firstheader] (assets/readme-images/header.png "first header")
- <img src=(https://github.com/chloemay-1/mybestidea/assets/readme-images/header.png)>
- <img src=(assets/readme-images/header-firstdiv.png)>
- <img src=(assets/readme-images/footer.png)>
+ ![firstheader] (assets/readme-images/header.png "first header")
  
 
  Toward the end of compeleting my project, I was not extremelly happy with how everything was looking together. Something about it wasnt sitting right with me. I decided to add a background color to the DIVS in the main body for about us, price list, and contact us. To pick the color for the background I used color dropper to take the 2 shades of brown from the paw prints in the header. This left me with 2 colors. 
