@@ -164,11 +164,13 @@ I found an issue to be on the deployed site, on certain phones (Samsung) there w
 
 When I changed used chrome Dev tools and changed to samsung smart phone, there was no horizontal scrool. 
 ### CSS and HTML Validator
+
+
 #### CSS
 
 I used [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_uri) to check my css code. 
 
-When I first sent my CSS code into the validator I got 7 issues. 5 of them being pearse issues, which were simple fixes. The other 2 issues were also quick fixes, I had missed unit after width and height for one element.
+When I first sent my CSS code into the validator I got 7 issues. 5 of them being parse issues, which were simple fixes. The other 2 issues were also quick fixes, I had missed unit after width and height for one element.
 ![CSS Validator before fixes](assets/readme-images/cssvalidator7.png)
 
 After fixing these errors I sent my code through again and was given No Errors Found
