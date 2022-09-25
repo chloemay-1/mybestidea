@@ -1,11 +1,14 @@
 
 
 # Scamps Groomers
+
 ## Purpose of Website
 This website was designed to provide users with information about a dog groomers called Scamps. This website should be easy to navigate and have easy flow for users. Users should be able to find treatment and prices easily, with help from a navagation bar. This website should hold images of work done and a map of location.
 
 
 I plan on attaching a form for users to add their details and dogs details, and our team will get back to them to arrange an appointment. Alternatevly call the number, email us, or drop by the store and we will be happy to help.  I hope to acheive this. 
+
+[Scamps Groomers Deployed link](https://chloemay-1.github.io/mybestidea)
 
 ## User Goals
 * As a current user, I wish to see a website that is functional on all devices. 
@@ -135,8 +138,22 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
 
 Wireframes were made using [Balsamiq](https://balsamiq.com/)
+### Deployment 
 
-   
+Following writing the code, adding, commiting, and pushing to github, I followed the following steps to deploy my website 
+* Opened mybestidea repository on github .
+* Opened settings and scrolled down to find pages on the left hand side.
+* On first attemp of trying to delploy I realised I needed to make my repository public .
+  * I done this by scrolling to end of the settings page to ***danger zone*** and changed visibility to public.
+* I then scrolled back up and to pages and changed branch to main. 
+* I then clicked the save button.
+* Within a few moments my link was live.
+
+
+[My Live Link](https://chloemay-1.github.io/mybestidea/)
+### Testing
+
+
 
 
  ### Limitations
