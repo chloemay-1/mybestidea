@@ -416,7 +416,7 @@ span > a:hover {
             height: 15vh;
             margin: 0 auto;
         }
-        iframe {
+        iframe > #gmapcanvas {
             display: flex;
             align-items: center;
             align-content: center;
@@ -448,6 +448,10 @@ span > a:hover {
         footer > span {
             width: 90vw;
         }
+        #iframe {
+            width: 25px;
+            height: 25px;
+        }
     
     }
 
@@ -466,6 +470,7 @@ span > a:hover {
                 display: flex;
                 flex-direction: column;
             }
+            
     }
 
     @media screen and (max-width: 320px) {
