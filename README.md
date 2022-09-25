@@ -68,7 +68,12 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ![nav](assets/readme-images/nav-bar.png "My nav bar")
  ![Mav hover](assets/readme-images/nav-bar-hover.png "My nav bar :hover")
  ![about us](assets/readme-images/about-us.png "about us")
- 
+ ![body](assets/readme-images/used-body.png "body")
+ ![form:hover](assets/readme-images/form-hover.png "Hover over submit on form")
+ ![form:no email](assets/readme-images/formnoemail.png "form submit with no email")
+ ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
+
+
 
  ### Limitations
  . . I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
