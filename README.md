@@ -90,14 +90,24 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
  * About Us
  * Prices
  * Contact us
- ![about us](assets/readme-images/about-us.png "about us")
- ![body](assets/readme-images/used-body.png "body")
+![about us](assets/readme-images/about-us.png "about us")
+![body](assets/readme-images/used-body.png "body")
 
  For my main three sections I used two background colors. The first and last section have a background color of #bf786a, and the middle section has a background color of #d0867c. Both of these shades come from using [Google Eye Dropper](https://chrome.google.com/webstore/detail/eye-dropper/hmdcmlfkchdmnmnmheododdhjedfccka?hl=en) on the pawprint image in the header. I used this before I decided to move away from my original color pallete of oranges/reds.
+ #### Form
+ I added a form to the contact us section of the website. This gives users the option to send their contact details, and a team member will be in contact shortly. 
  
+ I added the same styling to the Submit and Reset buttons of the form as I did to the nav elements. 
  ![form:hover](assets/readme-images/form-hover.png "Hover over submit on form")
+
+ If a user enters an invalid email they will not be about to proceed with submission. 
  ![form:no email](assets/readme-images/formnoemail.png "form submit with no email")
+
+ If a user enters other characters that are not numbers to both Numbers of Dogs, and Phone Number, they will not be able to proceed with submission.
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
+
+ ### Footer
+
 
  ## Typography 
  This website uses the fonts Kaushan Script, and Lemonada, which were imported from [Google Fonts](https://fonts.google.com/). I used both of these fonts in cursive as I think its adds an elegance to the website. I used Kaushan Script in cursive for my headings and the nav bar as I felt with letter spacing these would be easy to read and would not be off putting as they are not chunks of text. 
@@ -105,7 +115,11 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
  ## Imagery
  The imagery used in the website is used to make the user aware from the get go, this is a website to do with animals (especially dogs). From the paw prints in the header, to the image of a dog groomer showing another younger woman the way. This image was used to show Scamps is a family run business with good connection within. I used the image of a dog in the bath next to the price list, as having a bath is included in most grooms. I would have liked to have a gallery of some before and after pictures, although I could not achieve this with the free images available online. I used a fun image of a dog on my form submittion page, there is nothing to do on the submission page and I thought this image added to the page well. 
+
+ Images were sourced from [Pexels](https://www.pexels.com/)
 ## Wireframe 
+
+
 ### Phone
 
 * [Phone One](../mybestidea/wireframes/phone/phone1.png "Phone One")</summary>
@@ -119,11 +133,14 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 * [Computer Three](wireframes/wireframe/computer/wireframecomputer3.png "Computer three")
 * [Computer Four](wireframes/wireframe/computer/wireframecomputer4.png "Computer four")
 
+
+Wireframes were made using [Balsamiq](https://balsamiq.com/)
+
    
 
 
  ### Limitations
- . . I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
+ I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
 
  I found another limitation to be finding photos of dog grooming, before and after pictures. A lot of photos that could have been used I would have to pay for. I mainly sourced my images from pexels for free. 
 
