@@ -271,6 +271,7 @@ footer > h2 {
 }
 span > a {
     color: #f6f9f7;
+    text-decoration: none;
 }
 span > a:hover {
    color: #b1b1b1;
