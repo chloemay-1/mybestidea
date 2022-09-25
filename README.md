@@ -112,7 +112,7 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
  ![form:no number](assets/readme-images/formnonumber.png "form submit no number")
 
- ### Footer
+ 
 
 
  ## Typography 
