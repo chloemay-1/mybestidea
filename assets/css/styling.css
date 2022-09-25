@@ -448,7 +448,7 @@ span > a:hover {
         footer > span {
             width: 90vw;
         }
-        #iframe {
+        iframe {
             width: 25px;
             height: 25px;
         }
