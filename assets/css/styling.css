@@ -430,6 +430,22 @@ span > a:hover {
             padding: 10px;
         }
     }
+    @media screen and (max-width: 400px) {
+            header {
+                width: 100vw;
+            }
+            nav {
+                width: 95vw;
+            }
+            nav > a {
+            width: 90vw; 
+
+        }
+        footer > span {
+            width: 90vw;
+        }
+    
+    }
 
     @media screen and ( max-width: 350px ){
             body {
@@ -449,8 +465,8 @@ span > a:hover {
     }
 
     @media screen and (max-width: 320px) {
-        body {
-            overflow-x:inherit ;
+        html {
+            overflow-x:hidden;
             
         }
         

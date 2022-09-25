@@ -1,6 +1,7 @@
 
 
 # Scamps Groomers
+## Purpose of Website
 This website was designed to provide users with information about a dog groomers called Scamps. This website should be easy to navigate and have easy flow for users. Users should be able to find treatment and prices easily, with help from a navagation bar. This website should hold images of work done and a map of location.
 
 
@@ -78,3 +79,6 @@ I added these colors to the divs, and then my font color was hard to read (#e077
  ### Limitations
  . . I found that Chrome dev tools was a great help to see the placement of items and for using smaller screens, although I found once I had deployed my website and I started opening it on my own device, and asking family and friends to check out my website on any and all devices in their homes it wasnt working to same extent as it shows on the dev tools. I found this may be due to the fact most phones are touch screens. For eg, my nav bar was very difficult to use on actual phones, although from the dev tools this wouldnt have been noticed. 
 
+ I found another limitation to be finding photos of dog grooming, before and after pictures. A lot of photos that could have been used I would have to pay for. I mainly sourced my images from pexels for free. 
+
+I found in the deployment if my website onto phone screens, that samsung phone were giving a horizontal scroll bar, but it has no use unless you zoomed into the website. I did not find this on any iPhone that my project was opened on. I used dev tools, and my very own tutors very useful extension Unicorn revealer to show what the issue may have been. It seems the nav bar was my issue. I attepted to fix same. 
