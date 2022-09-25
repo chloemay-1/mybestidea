@@ -128,16 +128,16 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
 ### Phone
 
-* [Phone One](../mybestidea/wireframes/phone/phone1.png "Phone One")</summary>
-* [Phone Two](../mybestidea/wireframes/phone/phone2.png "Phone Two")
-* [Phone Three](../mybestidea/wireframes/phone/phone3.png "Phone Three")
-* [Phone Four](../wireframes/phone/phone4.png "Phone Four")
+* [Phone One](../mybestidea/assets/wireframes/phone/phone1.png "Phone One")</summary>
+* [Phone Two](../mybestidea/assets/wireframes/phone/phone2.png "Phone Two")
+* [Phone Three](../mybestidea/assets/wireframes/phone/phone3.png "Phone Three")
+* [Phone Four](..assets/wireframes/phone/phone4.png "Phone Four")
 
 ### Computer
-* [Computer One](wireframes/wireframe/computer/computer1.png "Computer One")
-* [Computer Two](wireframes/wireframe/computer/wireframecomputer2.png "Computer Two")
-* [Computer Three](wireframes/wireframe/computer/wireframecomputer3.png "Computer three")
-* [Computer Four](wireframes/wireframe/computer/wireframecomputer4.png "Computer four")
+* [Computer One](assets/wireframes/wireframe/computer/computer1.png "Computer One")
+* [Computer Two](assets/wireframes/wireframe/computer/wireframecomputer2.png "Computer Two")
+* [Computer Three](assets/wireframes/wireframe/computer/wireframecomputer3.png "Computer three")
+* [Computer Four](assets/wireframes/wireframe/computer/wireframecomputer4.png "Computer four")
 
 
 Wireframes were made using [Balsamiq](https://balsamiq.com/)
