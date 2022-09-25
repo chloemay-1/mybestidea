@@ -223,7 +223,7 @@ I also tested my contactform.html. This showed one error - My image did not have
 
 I would not have made it through the project if it was not for coders alike on [Slack Overflow](https://stackoverflow.com/), and everybody who has ever asked and/or answered a question on both Slack overflow, and our very own Code Institute channels on slack. 
 
-I heavlily relied on the Coders Coffee House code, and the Love Running Project. 
+I heavily relied on the Coders Coffee House code, and the Love Running Project. 
 
 I would like to thank both my Mentor, and my class Mentor for all the help 
 
