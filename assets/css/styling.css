@@ -229,7 +229,7 @@ input:focus {
     position:relative;
     text-align:right;
     height: 350px;
-    width:300px;
+    width:350px;
 }
 .gmap_canvas {
         overflow: hidden;
