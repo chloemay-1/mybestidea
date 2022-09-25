@@ -347,6 +347,7 @@ span > a:hover {
         .about-usclass {
             display: flex;
             justify-content: center;
+            align-items: center;
             flex-direction: column;
         }
         .about-us-p {
