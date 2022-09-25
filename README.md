@@ -128,10 +128,10 @@ I choose a bright background color for my nav bar #f78061. I really enjoyed the 
 
 ### Phone
 
-* [Phone One](../mybestidea/assets/wireframes/phone/phone1.png "Phone One")</summary>
-* [Phone Two](../mybestidea/assets/wireframes/phone/phone2.png "Phone Two")
-* [Phone Three](../mybestidea/assets/wireframes/phone/phone3.png "Phone Three")
-* [Phone Four](..assets/wireframes/phone/phone4.png "Phone Four")
+* [Phone One](assets/wireframes/phone/phone1.png "Phone One")</summary>
+* [Phone Two](assets/wireframes/phone/phone2.png "Phone Two")
+* [Phone Three](assets/wireframes/phone/phone3.png "Phone Three")
+* [Phone Four](wireframes/phone/phone4.png "Phone Four")
 
 ### Computer
 * [Computer One](assets/wireframes/wireframe/computer/computer1.png "Computer One")
