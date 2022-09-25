@@ -61,7 +61,7 @@ h1 {
 #dog-grooming {
         color: #3d4b4f; 
         font-size: 200%;
-        margin: 10% 10% 10% 10%;
+        margin: 5% 10% 10% 10%;
     }
  #paw-print-one {
         max-width: 30vw;
@@ -142,8 +142,8 @@ body {
 #susan {
     height: 75%;
     border-radius: 50%;
-    width: 50%;
-    margin: 10px 20px 20px 2px;
+    width: 70%;
+    margin:50px 50px 20px 2px;
 
 }
 .row {
@@ -294,10 +294,11 @@ span > a:hover {
             overflow-x: hidden;
         }
         #susan {
-            width: 45vw;
+            width: 60%;
+            height: 60%
         }
         #doginbath {
-            width: 45vw;
+            width: 80%;
         }
         header > img {
             width: 25vw;
@@ -322,6 +323,7 @@ span > a:hover {
             width: 50%;
             margin: 0 auto;
         }
+        
     }
 
     @media screen and (max-width: 970px) {
@@ -401,7 +403,7 @@ span > a:hover {
             margin-top: 20px;
         }
         #dog-grooming {
-            font-size: 90%;
+            font-size: 100%;
         }
         #paw-print-one {
             display: none
@@ -470,7 +472,6 @@ span > a:hover {
     @media screen and (max-width: 320px) {
         html {
             overflow-x:hidden;
-            
         }
         
         paw-print-two {
